@@ -1,4 +1,4 @@
 # AsyncAI
 AsyncAI - models with api
 
-Coming soon AsyncAI models by access api
+Coming soon AsyncAI api by to access models
