@@ -1,0 +1,7 @@
+setup.py
+AsyncAI.egg-info/PKG-INFO
+AsyncAI.egg-info/SOURCES.txt
+AsyncAI.egg-info/dependency_links.txt
+AsyncAI.egg-info/top_level.txt
+asyncai/AsyncAI.py
+asyncai/__init__.py
