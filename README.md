@@ -1,4 +1,4 @@
-# Somone AI with one API
+# Some AI with one API
 
 ## Coming soon AsyncAI api by to access models
 
